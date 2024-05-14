@@ -12,6 +12,11 @@ Hi I'm ohhamma, currently exploring backend engineering while pursuing my passio
 
 <br>
 
+**[PS IvoryTower](https://ps-ivorytower.tistory.com/8/)**
+<li> Algorithm Instructor <sub>(2022.09 ~ 2022.12)</sub></li>
+
+<br>
+
 **[ICPC Sinchon](https://icpc-sinchon.github.io/)**
 <li> Student Management Team Member <sub>(2022.05 ~ 2022.10)</sub></li>
 <li> President & Student Management Team Lead <sub>(2022.11 ~ 2023.03)</sub></li>
