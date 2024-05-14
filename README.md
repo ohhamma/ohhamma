@@ -1,3 +1,8 @@
+## 🌊 About Me
+
+Hi I'm ohhamma, currently exploring backend engineering while pursuing my passion. Starting each day with a swim, I'm on a mission to discover what truly sparks my interest. I welcome you to witness my progress!
+
+
 ## 🪴 Activities
 
 **[GDSC Hongik](https://www.gdschongik.com/)**
@@ -27,16 +32,24 @@
 
 ## 💻 Projects
 
-**[webserv](https://github.com/web42serv/webserv/)**
-<li> Tech Stack : C++ </li>
+**[ft_transcendence](https://github.com/bitbit-Merry-go-round/Transcendence-BE/)** <sub>(2024.02 ~ 2024.04)</sub>
+<li>
+  <img src ="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src ="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
+  <img src ="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img src ="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+</li>
+<li> Web project for a simple Pong game from 42Seoul, featuring user management, local gameplay, social login, and MSA architecture </li>
 
 <br>
 
-**[ft_transcendence](https://github.com/bitbit-Merry-go-round/Transcendence-BE/)**
-<li> Tech Stack : Python, Django </li>
+**[Webserv](https://github.com/web42serv/webserv/)** <sub>(2023.08 ~ 2023.10)</sub>
+<li>
+  <img src ="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+</li>
+<li> Custom C++ HTTP server project from 42Seoul with non-blocking I/O and CGI execution </li>
 
 
 ## 🔑 Problem Solving
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohhamma)](https://solved.ac/ohhamma)
 
-<!--![mazandi profile](http://mazandi.herokuapp.com/api?handle=ohhamma&theme=dark)-->
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohhamma)](https://solved.ac/ohhamma)
