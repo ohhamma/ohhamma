@@ -6,9 +6,9 @@ Hi I'm ohhamma, currently exploring backend engineering while pursuing my passio
 ## 🪴 Activities
 
 **[GDSC Hongik](https://www.gdschongik.com/)**
-<li> Frontend Member <sub>(2022.09 ~ 2022.12)</sub></li>
-<li> Education Team Member <sub>(2023.01 ~ 2023.05)</sub></li>
 <li> Education Team Lead <sub>(2023.08 ~ 2023.12)</sub></li>
+<li> Education Team Member <sub>(2023.01 ~ 2023.05)</sub></li>
+<li> Frontend Member <sub>(2022.09 ~ 2022.12)</sub></li>
 
 <br>
 
@@ -18,9 +18,9 @@ Hi I'm ohhamma, currently exploring backend engineering while pursuing my passio
 <br>
 
 **[ICPC Sinchon](https://icpc-sinchon.github.io/)**
-<li> Student Management Team Member <sub>(2022.05 ~ 2022.10)</sub></li>
-<li> President & Student Management Team Lead <sub>(2022.11 ~ 2023.03)</sub></li>
 <li> Novice Algorithm Instructor <sub>(2023.01 ~ 2023.02)</sub></li>
+<li> President & Student Management Team Lead <sub>(2022.11 ~ 2023.03)</sub></li>
+<li> Student Management Team Member <sub>(2022.05 ~ 2022.10)</sub></li>
 
 
 ## 📚 Education
