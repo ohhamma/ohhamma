@@ -72,16 +72,6 @@ Hi I'm ohhamma, currently exploring backend engineering while pursuing my passio
 
 ## 🪴 Activities
 
-**[OSSCA](https://www.contribution.ac/)**
-<li> GlueSQL Mentee <sub>(2025.07 ~ )</sub></li>
-
-<br>
-
-**[DND](https://dnd.ac/)**
-<li> 13th Backend Member <sub>(2025.07 ~ )</sub></li>
-
-<br>
-
 **[GDSC Hongik](https://www.gdschongik.com/)**
 <li> Education Team Lead <sub>(2023.08 ~ 2023.12)</sub></li>
 <li> Education Team Member <sub>(2023.01 ~ 2023.05)</sub></li>
