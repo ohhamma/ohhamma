@@ -55,7 +55,7 @@
 
 <br>
 
-**[ft_transcendence](https://github.com/bitbit-Merry-go-round/Transcendence-BE/)** <sub>(2024.02 ~ 2024.04)</sub>
+**[Fresh Pong](https://github.com/bitbit-Merry-go-round/Transcendence-BE/)** <sub>(2024.02 ~ 2024.04)</sub>
 <li> Tech : 
   <img src = "https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src = "https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
